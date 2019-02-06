@@ -6,3 +6,10 @@ are also some additional resources that might be of use to new
 researchers.
 
 [Working paper version](https://lancebachmeier.com/handbook_bachmeier_plante.pdf)
+
+## Authors
+
+You can learn more about the authors at their websites:
+
+[Lance Bachmeier](https://lancebachmeier.com)  
+[Michael Plante](https://sites.google.com/site/michaelplanteecon/)
