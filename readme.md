@@ -18,4 +18,9 @@ You can learn more about the authors at their websites:
 
 [Zip archive holding Matlab files to solve DSGE models with oil](https://github.com/bachmeil/handbook/blob/master/DSGE_Codes.zip)  
 [Online Appendix (pdf)](https://github.com/bachmeil/handbook/blob/master/handbook-appendix.pdf)  
-[Energy expenditures data](https://github.com/bachmeil/handbook/blob/master/USEnergyExpenditures_Appendix.xlsx)
+[Energy expenditures data](https://github.com/bachmeil/handbook/blob/master/USEnergyExpenditures_Appendix.xlsx)  
+[R program to produce the data plots](https://github.com/bachmeil/handbook/blob/master/handbook-graphs.R)  
+[Zip archive holding the data used to produce the plots](https://github.com/bachmeil/handbook/blob/master/plotdata.zip)  
+[R program to do the regressions](https://github.com/bachmeil/handbook/blob/master/handbook-regressions.R)  
+[R dataset used to do the regressions](https://github.com/bachmeil/handbook/blob/master/quarterlymacro.RDS)  
+
