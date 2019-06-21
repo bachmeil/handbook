@@ -27,4 +27,5 @@ You can learn more about the authors at their websites:
 ## Other Resources
 
 [Lutz Kilian's data page, including his measure of global real economic activity](https://sites.google.com/site/lkilian2019/research/data-sets)  
-[James Hamilton's data and software page](https://econweb.ucsd.edu/~jhamilto/software.htm)
+[James Hamilton's data and software page](https://econweb.ucsd.edu/~jhamilto/software.htm)  
+[Christiane Baumeister's research page](https://sites.google.com/site/cjsbaumeister/research)  
