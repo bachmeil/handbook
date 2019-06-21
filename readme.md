@@ -24,3 +24,7 @@ You can learn more about the authors at their websites:
 [R program to do the regressions](https://github.com/bachmeil/handbook/blob/master/handbook-regressions.R)  
 [R dataset used to do the regressions](https://github.com/bachmeil/handbook/blob/master/quarterlymacro.RDS)  
 
+## Other Resources
+
+[Lutz Kilian's data page, including his measure of global real economic activity](https://sites.google.com/site/lkilian2019/research/data-sets)  
+[James Hamilton's data and software page](https://econweb.ucsd.edu/~jhamilto/software.htm)
