@@ -1,0 +1,18 @@
+library(tstools)
+library(lmtest)
+macro <- readRDS("quarterlymacro.RDS")
+fit.pre84 <- tsreg(macro[, "drgdp"], ts.combine(lags(macro[, "drgdp"], 1:4), lags(macro[, "doil_q"], 1:4)), end=c(1984,4))
+ar.pre84 <- tsreg(macro[, "drgdp"], lags(macro[, "drgdp"], 1:4), end=c(1984,4))
+print(summary(fit.pre84))
+print(names(fit.pre84))
+print(waldtest(fit.pre84, ar.pre84))
+
+fit.after84 <- tsreg(macro[, "drgdp"], ts.combine(lags(macro[, "drgdp"], 1:4), lags(macro[, "doil_q"], 1:4)), start=c(1985,1))
+ar.after84 <- tsreg(macro[, "drgdp"], lags(macro[, "drgdp"], 1:4), start=c(1985,1))
+print(summary(fit.after84))
+print(waldtest(fit.after84, ar.after84))
+
+nopi.full <- tsreg(macro[, "drgdp"], ts.combine(lags(macro[, "drgdp"], 1:4), lags(macro[, "nopi_q"], 1:4)))
+print(summary(nopi.full))
+nopi.after84 <- tsreg(macro[, "drgdp"], ts.combine(lags(macro[, "drgdp"], 1:4), lags(macro[, "nopi_q"], 1:4)), start=c(1985,1))
+print(summary(nopi.after84))
