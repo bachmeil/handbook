@@ -24,7 +24,7 @@ You can learn more about the authors at their websites:
 [R program to do the regressions](https://github.com/bachmeil/handbook/blob/master/handbook-regressions.R)  
 [R dataset used to do the regressions](https://github.com/bachmeil/handbook/blob/master/quarterlymacro.RDS)  
 
-## New Papers Not In Our Chapter
+## New Papers We Didn't Include In Our Chapter
 
 [Asymmetric responses of consumer spending to energy prices: A threshold VAR approach](https://www.sciencedirect.com/science/article/pii/S0140988321000323) by Knotek and Zaman, *Energy Economics*, March 2021.  
 [The Macroeconomic Effects of Oil Supply News: Evidence from OPEC Announcements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3185839) by Känzig, *American Economic Review*, 2020.
